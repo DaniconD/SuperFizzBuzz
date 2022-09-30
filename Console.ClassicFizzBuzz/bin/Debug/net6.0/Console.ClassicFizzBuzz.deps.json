@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Console.ClassicFizzBuzz/1.0.0": {
+        "dependencies": {
+          "SuperFizzBuzz": "1.0.0"
+        },
+        "runtime": {
+          "Console.ClassicFizzBuzz.dll": {}
+        }
+      },
+      "SuperFizzBuzz/1.0.0": {
+        "runtime": {
+          "SuperFizzBuzz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console.ClassicFizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperFizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

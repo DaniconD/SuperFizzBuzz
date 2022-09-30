@@ -1,0 +1,12 @@
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\bin\Debug\net6.0\SuperFizzBuzz.deps.json
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\bin\Debug\net6.0\SuperFizzBuzz.dll
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\bin\Debug\net6.0\SuperFizzBuzz.pdb
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\SuperFizzBuzz.csproj.AssemblyReference.cache
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\SuperFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\SuperFizzBuzz.AssemblyInfoInputs.cache
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\SuperFizzBuzz.AssemblyInfo.cs
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\SuperFizzBuzz.csproj.CoreCompileInputs.cache
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\SuperFizzBuzz.dll
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\refint\SuperFizzBuzz.dll
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\SuperFizzBuzz.pdb
+D:\Users\Daniel\Documents\ProgramingProjects\SuperFizzBuzz\SuperFizzBuzz\obj\Debug\net6.0\ref\SuperFizzBuzz.dll
